@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="baby">#D8E2FA</color>
+    <color name="gold">#D4AF37</color>
+    <color name="buttons">#302579</color>
+    <color name="special">#87CBB9</color>
+    <color name="areas">#B8E7E1</color>
+    <color name="background">#D4FAFC</color>
+</resources>
